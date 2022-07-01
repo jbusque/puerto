@@ -1,0 +1,83 @@
+IDHL;nombre;dosel;DH;necact;ufequ;act1
+1;Agr_cur;sin;no;No;++;no actuar
+1;Agr_cur;sin;no;No;--;aumentar pastoreo
+1;Agr_cur;sin;no;No;-/+;aumentar pastoreo
+1;Bra_pin;sin;no;abandono;++;no actuar
+1;Bra_pin;sin;no;abandono;--;aumentar pastoreo
+1;F_A;sin;no;productiv;++;disminuir pastoreo
+1;F_A;sin;no;productiv;-/+;abonar
+1;Fes_esk;sin;si;No;--;aumentar pastoreo
+1;Hel_can;sin;no;No;--;no actuar
+1;JasDan;sin;si;No;++;disminuir pastoreo
+1;JasDan;sin;si;No;--;aumentar pastoreo
+1;JasDan;sin;si;No;-/+;no actuar
+1;Juncal;sin;no;abandono;++;no actuar
+1;Mesobr;sin;si;No;++;disminuir pastoreo
+1;Mesobr;sin;si;No;--;aumentar pastoreo
+1;Mesobr;sin;si;No;-/+;no  actuar
+1;Mol_cae;sin;no;abandono;++;no actuar
+1;Mol_cae;sin;no;abandono;--;aumentar pastoreo
+1;Mol_cae;sin;no;abandono;-/+;no actuar
+1;Nar_str;sin;si;No;++;disminuir pastoreo
+1;Nar_str;sin;si;No;--;aumentar pastoreo
+1;Nar_str;sin;si;No;-/+;no actuar
+1;Pse_lon;sin;no;abandono;++;no actuar
+1;Pse_lon;sin;no;abandono;-/+;no actuar
+1;Sen_jac;sin;no;sobreuso;--;actuación específica
+2;Brezo_bajo;sin;si;No;++;disminuir pastoreo
+2;Brezo_bajo;sin;si;No;--;desbroce/quema
+2;Brezo_bajo;sin;si;No;-/+;no actuar
+2;Cal_vul;sin;si;No;++;disminuir pastoreo
+2;Cal_vul;sin;si;No;--;desbroce/quema
+2;Cal_vul;sin;si;No;-/+;no actuar
+2;Eup_pol;sin;no;sobreuso;++;no actuar
+2;Eup_pol;sin;no;sobreuso;--;aumentar pastoreo
+2;Eup_pol;sin;no;sobreuso;-/+;no actuar
+2;Gen_occ;sin;si;No;++;disminuir pastoreo
+2;Gen_occ;sin;si;No;--;desbroce/quema
+2;Gen_occ;sin;si;No;-/+;no actuar
+2;Jun_alp;sin;si;No;++;disminuir pastoreo
+2;Rubus;sin;no;abandono;++;no actuar
+2;Ulex_gal;sin;no;abandono;++;no actuar
+2;Ulex_gal;sin;no;abandono;--;desbroce/quema
+2;Ulex_gal;sin;no;abandono;-/+;desbroce/quema
+2;Vac_myr;sin;si;No;--;no actuar
+2;Vac_myr;sin;si;No;-/+;no actuar
+3;Eri_arb;con;si;No;++;disminuir pastoreo
+3;Eri_arb;con;si;No;--;no actuar
+3;Eri_arb;con;si;No;-/+;no actuar
+3;Eri_arb;sin;si;No;++;disminuir pastoreo
+3;Eri_arb;sin;si;No;--;desbroce/quema
+3;Eri_arb;sin;si;No;-/+;no actuar
+3;Escobas;con;si;No;++;disminuir pastoreo
+3;Escobas;con;si;No;-/+;no actuar
+3;Escobas;sin;si;No;-/+;no actuar
+3;Pru_spi;con;no;abandono;++;disminuir pastoreo
+3;Pru_spi;sin;no;abandono;-/+;no actuar
+3;Pte_aqu;con;no;abandono;++;no actuar
+3;Pte_aqu;con;no;abandono;-/+;no actuar
+3;Pte_aqu;sin;no;abandono;++;disminuir pastoreo
+3;Pte_aqu;sin;no;abandono;-/+;disminuir pastoreo
+1;Bra_pin;sin;no;abandono;-/+;aumentar pastoreo
+1;F_A;sin;no;productiv;--;aumentar pastoreo
+1;Fes_esk;sin;si;No;++;disminuir pastoreo
+1;Fes_esk;sin;si;No;-/+;no actuar
+1;Hel_can;sin;no;No;-/+;no actuar
+1;Hel_can;sin;no;No;++;disminuir pastoreo
+1;Juncal;sin;no;abandono;-/+;no actuar
+1;Juncal;sin;no;abandono;--;aumentar pastoreo
+1;Pse_lon;sin;no;abandono;--;aumentar pastoreo
+2;Jun_alp;sin;si;No;-/+;no actuar
+2;Jun_alp;sin;si;No;--;no actuar
+2;Rubus;sin;no;abandono;-/+;no actuar
+2;Rubus;sin;no;abandono;--;desbroce
+2;Vac_myr;sin;si;No;++;disminuir pastoreo
+3;Escobas;sin;si;No;--;no actuar
+3;Escobas;sin;si;No;++;disminuir pastoreo
+3;Escobas;con;si;No;--;no actuar
+3;Pru_spi;sin;no;abandono;--;no actuar
+3;Pru_spi;sin;no;abandono;++;no actuar
+3;Pru_spi;con;no;abandono;-/+;no actuar
+3;Pru_spi;con;no;abandono;--;aumentar pastoreo
+3;Pte_aqu;sin;no;abandono;--;desbroce/quema
+3;Pte_aqu;con;no;abandono;--;desbroce/quema

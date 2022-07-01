@@ -1,0 +1,43 @@
+com;nombre_com;nombre2;cobmin
+1;Agr_cur;Pasto herbáceo bajo acidófilo con dominancia de Agrostis curtisii;50
+2;Abedul;Abedular;
+3;Bra_pin;Pasto herbáceo alto mesófilo con dominancia de Brachypodium pinnatum;50
+4;Cal_vul;Brezal bajo acidófilo dominado por Calluna vulgaris;40
+5;Avellano;Avellanal;
+6;Cra_mon;Espinar de Espino albar;
+7;F-A;Pasto herbáceo bajo eutrofo dominado por Festuca gr. rubra, Agrostis capillaris y Trifolium repens;60
+8;Eri_arb;Brezal alto acidófilo dominado por Erica arborea;40
+9;Brezo bajo;Brezal bajo dominado por distintas especies de Erica (vagans, cinerea, ciliaris, mackaiana, tetralix);40
+10;Gen_occ;Aulagar bajo calcícola dominado por Genista occidentalis;40
+11;Gen_leg;Aulagar bajo calcícola dominado por Genista legionensis;40
+12;Hel-can;Pasto herbáceo alto calcícola dominado por Helictotrichon cantabricum;50
+13;Acebo;Acebal;
+14;JasDan;Pasto herbáceo bajo acidófilo dominado por Danthonia decumbens y Agrostis capillaris;60
+15;Juncal;Pasto herbáceo alto higrófilo dominado por especies de Juncus;30
+16;Mesobr;Pasto herbáceo bajo mesófilo con presencia frecuente de Bromus erectus;60
+17;Mol_cae;Pasto herbáceo alto acidófilo e higrófilo dominado por Molinia caerulea;50
+18;Nar_str;Pasto herbáceo bajo acidófilo con presencia frecuente de Nardus stricta;50
+19;Pin_rad;Pinar de Pinus radiata;
+20;Pse_lon;Pasto herbáceo alto acidófilo dominado por Pseudarrhenatherum longifolium;50
+21;Pte_aqu;Helechal;40
+22;Encina;Encinar;
+23;Rebollo;Rebollar;
+24;Roble;Robledal;
+25;Rubus;Zarzal;40
+26;Sen_aqu;Senecio aquaticus;30
+27;Sen_jac;Senecio jacobea;30
+28;Ulex_gal;Tojal bajo acidófilo dominado por Ulex gallii;40
+29;Vac_myr;Matorral bajo acidófilo dominado por Vaccinium myrtillus;20
+30;Haya;Hayedo;
+31;Jun_alp;Enebral bajo dominado por Juniperus alpina;20
+32;Escobas;Escobal alto dominado Genista florida/obtusirramea;40
+33;Fes_esk;Pasto herbáceo alto acidófilo subalpino dominado por Festuca eskia;50
+34;Fes_hys;Pasto herbáceo muy bajo calcícola dominado por Festuca hystrix;
+35;Sauce;Saucedas;
+36;Armerion;Pasto herbáceo bajo calcícola con presencia frecuente de Carex sempervirens;50
+37;Siega int;Prados eutrofos que se siegan;60
+38;Eup_pol;Matorral bajo acidófilo dominado por Euphorbia polygalifolia;30
+39;Pru_spi;Espinar de Prunus spinosa;30
+40;Siega ext;Prados mesófilos ricos en flora que se siegan;60
+90;Eri_cin;Brezal bajo acidófilo dominado por Erica cinerea;40
+41;Ulex_eur;Tojal alto dominado por Ulex europaeus;40

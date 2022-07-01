@@ -1,0 +1,5 @@
+Categoria;Nombre
+1;lactante
+2;seca
+3;joven
+4;semental

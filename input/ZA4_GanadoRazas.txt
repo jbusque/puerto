@@ -1,0 +1,13 @@
+Especie;Raza;Nombre
+1;1;Pais
+1;2;Hispano Bretón
+2;1;Tudanco
+2;2;Limusín
+2;3;Charolés
+2;4;Ast. Mont
+2;5;Ast. Vall
+2;6;Pardo Alpino
+2;7;Mestizo
+2;8;Bazadaise
+3;1;Latxa
+4;1;Tronco iberico
